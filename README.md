@@ -1,5 +1,6 @@
 # week-6-part-1
 
-Contributers:
+Contributors:  
+
 Samantha Lavrinc - sml165
 Jenny Lee - jsl74
